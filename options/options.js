@@ -1,3 +1,5 @@
+import { StyleSheet } from "react-native";
+
 const newStyles = StyleSheet.create({
   hr: { marginTop: 20, borderBottomColor: "black" }
 })
