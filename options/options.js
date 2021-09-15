@@ -1,4 +1,4 @@
-const newStyles = StyleSheet.create({ hr: {} })
+const newStyles = StyleSheet.create({ hr: { marginTop: 20 } })
 export const globalOptions = {
   name: "js_module_options_d_22908Identifier",
   url: "https://js_module_options_d_22908Identifier.botics.co",
