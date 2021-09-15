@@ -1,5 +1,4 @@
-import { StyleSheet } from "react-native";
-
+const styles = null
 export const globalOptions = {
   name: "js_module_options_d_22908Identifier",
   url: "https://js_module_options_d_22908Identifier.botics.co",
@@ -7,6 +6,8 @@ export const globalOptions = {
 }
 export const modulesOptions = {
   "@modules/app-menu": {
-    "copy": "Routes available!"
+    title: "App Menu",
+    copy: "Routes available 2",
+    styles: styles
   }
 }
