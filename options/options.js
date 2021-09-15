@@ -5,5 +5,5 @@ export const globalOptions = {
   api: "https://js_module_options_d_22908Identifier.botics.co/api/v1"
 }
 export const modulesOptions = {
-  "@modules/app-menu": { title: "App Menu2", copy: "Routes available" }
+  "@modules/app-menu": { title: "App Menu3", copy: "Routes available" }
 }
