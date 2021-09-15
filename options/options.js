@@ -1,4 +1,4 @@
-const newStyles = StyleSheet.create({})
+const newStyles = StyleSheet.create({ hr: {} })
 export const globalOptions = {
   name: "js_module_options_d_22908Identifier",
   url: "https://js_module_options_d_22908Identifier.botics.co",
